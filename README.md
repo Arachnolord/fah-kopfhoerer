@@ -7,6 +7,12 @@ am Handy kann. Firmware-Updates gehören nicht dazu; die bleiben bei der Herstel
 
 Inoffiziell. Nicht von JBL/Harman/Bose/Huawei/Sony/Samsung/Anker. Markennamen nur zur Angabe, mit welchen Geräten die App funktioniert.
 
+## So sieht es aus
+
+<img src="docs/screenshots/1-panel.png" alt="Panel der Menüleisten-App" width="340"> &nbsp; <img src="docs/screenshots/2-menueleiste.png" alt="Symbol in der Menüleiste" width="31">
+
+Panel und Symbol in der Menüleiste (hier ohne verbundenen Kopfhörer).
+
 ## Unterstützt
 
 | Familie | Modelle | Stand |
